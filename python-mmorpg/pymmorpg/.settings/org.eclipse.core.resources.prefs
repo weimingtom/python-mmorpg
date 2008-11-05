@@ -1,0 +1,5 @@
+#Thu Aug 21 02:12:19 CST 2008
+eclipse.preferences.version=1
+encoding//src/common/base/object.py=UTF-8
+encoding//src/common/net/socketclient.py=UTF-8
+encoding//src/common/net/socketserver.py=UTF-8
