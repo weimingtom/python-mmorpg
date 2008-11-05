@@ -7,12 +7,13 @@ class ISaveable:
 class ILoadable:   
     def Load(self):
         pass
-    
+
+#序列化接口
 class ISerializeable:
-    def Serialize(self):
+    def Serialize(self):#序列化
         pass
     
-    def Unserialize(self):
+    def Unserialize(self):#反序列化
         pass
     
 class Object(ISerializeable):
